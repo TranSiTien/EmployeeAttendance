@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "gender": "Male",
+    "department": "IT",
+    "phoneNumber": "123-456-7890",
+    "isIntern": false,
+    "role": "Developer",
+    "band": "Senior",
+    "technicalDirection": "Backend",
+    "hasCodingSkill": true
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Garcia",
+    "gender": "Female",
+    "department": "HR",
+    "phoneNumber": "234-567-8901",
+    "isIntern": false,
+    "role": "Manager",
+    "band": "Senior",
+    "technicalDirection": "Management",
+    "hasCodingSkill": false
+  },
+  {
+    "firstName": "James",
+    "lastName": "Wilson",
+    "gender": "Male",
+    "department": "Finance",
+    "phoneNumber": "345-678-9012",
+    "isIntern": false,
+    "role": "QA",
+    "band": "Middle",
+    "technicalDirection": "Testing",
+    "hasCodingSkill": true
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Martinez",
+    "gender": "Female",
+    "department": "Marketing",
+    "phoneNumber": "456-789-0123",
+    "isIntern": true,
+    "role": "Developer",
+    "band": "Junior",
+    "technicalDirection": "Frontend",
+    "hasCodingSkill": true
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Anderson",
+    "gender": "Male",
+    "department": "IT",
+    "phoneNumber": "567-890-1234",
+    "isIntern": false,
+    "role": "Developer",
+    "band": "Senior",
+    "technicalDirection": "FullStack",
+    "hasCodingSkill": true
+  }
+] 

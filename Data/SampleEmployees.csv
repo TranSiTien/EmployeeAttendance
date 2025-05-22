@@ -1,0 +1,11 @@
+FirstName,LastName,Gender,Department,PhoneNumber,IsIntern,Role,Band,TechnicalDirection,HasCodingSkill
+John,Doe,Male,IT,123-456-7890,false,Developer,Senior,Backend,true
+Jane,Smith,Female,HR,234-567-8901,false,Manager,Senior,Management,false
+Mike,Johnson,Male,Finance,345-678-9012,false,QA,Junior,Testing,true
+Sarah,Williams,Female,Marketing,456-789-0123,true,Developer,Junior,Frontend,true
+Robert,Brown,Male,IT,567-890-1234,false,Developer,Middle,FullStack,true
+Emily,Jones,Female,IT,678-901-2345,true,QA,Junior,Testing,false
+David,Miller,Male,HR,789-012-3456,false,Manager,Senior,Management,false
+Lisa,Davis,Female,Finance,890-123-4567,false,Developer,Middle,Backend,true
+Michael,Wilson,Male,Marketing,901-234-5678,true,Developer,Junior,Frontend,true
+Jessica,Taylor,Female,IT,012-345-6789,false,QA,Middle,Testing,true 
